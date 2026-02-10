@@ -1,4 +1,4 @@
-name: 'Kustomize Validate'
+name: 'Kustomize File Validator'
 description: 'Validates that all kustomization.yaml files correctly reference actual files in their directories'
 author: 'm477r1x'
 branding:
